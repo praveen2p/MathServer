@@ -37,7 +37,7 @@ math.html
 <head>
 <meta charset='utf-8'>
 <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-<title>Area of Squarearea</title>
+<title>Area of Surfacearea</title>
 <meta name='viewport' content='width=device-width, initial-scale=1'>
 <style type="text/css">
 body 
@@ -79,7 +79,7 @@ padding-top: 20px;
 <div class="edge">
 <div class="box">
 
-<h1>Area of a Squarearea</h1>
+<h1>Area of a Surfacearea</h1>
 <form method="POST">
 {% csrf_token %}
 <div class="formelt">
@@ -144,7 +144,8 @@ def squarearea(request):
 ![alt text](<Screenshot 2024-04-02 122912.png>)
 
 ## HOMEPAGE:
-![alt text](<Screenshot 2024-04-02 122847-1.png>)
+![Screenshot 2024-04-03 220341](https://github.com/praveen2p/MathServer/assets/151658061/b8e1023d-1bd3-4e6d-8924-702f8feeb63a)
+
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
